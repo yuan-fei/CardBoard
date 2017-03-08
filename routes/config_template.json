@@ -1,0 +1,5 @@
+{
+  "redmine_api_key": "redmine_api_key",
+  "current_sprint_pbis_url": "current_sprint_pbis_url",
+  "current_sprint_tasks_url": "current_sprint_tasks_url"
+}
